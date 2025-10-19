@@ -11,7 +11,7 @@
 - Streamlit web interface for interactive Q&A
 - Optional display of source documents (context) used in answers
 - Fully local embedding support (no external API costs)
-- `.env` file support for API keys (hidden from GitHub)
+
 
 ---
 
